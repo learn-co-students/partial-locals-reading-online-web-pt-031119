@@ -1,5 +1,5 @@
-# Partials with Locals 
-
+# Partials with Locals
+1.
 ## Objectives
 1. Use the locals keyword
 2. Understand why using instance variables in partials is bad
